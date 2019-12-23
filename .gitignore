@@ -1,0 +1,9 @@
+# Compiled & backup state files
+*.tfstate
+*.tfstate.*.backup
+
+# Module directory
+.terraform/
+
+# Local variables
+ansible.auto.tfvars
