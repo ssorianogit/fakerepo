@@ -1,2 +1,3 @@
-## Test PR with Create a merge commit
+## Test PR with squash and merge
 nananana batman
+nanananana batman
